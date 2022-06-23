@@ -1,0 +1,80 @@
+<svg width="1920" height="910" viewBox="0 0 1920 910" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <rect x="159.81" y="114.551" width="161" height="161" transform="rotate(-45 159.81 114.551)" fill="url(#pattern0)" stroke="#293268" stroke-dasharray="4 4"/>
+    <rect x="618.015" y="114.551" width="161" height="161" transform="rotate(-45 618.015 114.551)" fill="url(#pattern1)" stroke="#293268" stroke-dasharray="4 4"/>
+    <rect x="158.81" y="567.551" width="161" height="161" transform="rotate(-45 158.81 567.551)" fill="url(#pattern2)" stroke="#293268" stroke-dasharray="4 4"/>
+    <rect x="617.015" y="567.551" width="161" height="161" transform="rotate(-45 617.015 567.551)" fill="url(#pattern3)" stroke="#293268" stroke-dasharray="4 4"/>
+    <rect x="-69.2929" y="341.551" width="161" height="161" transform="rotate(-45 -69.2929 341.551)" fill="url(#pattern4)" stroke="#293268" stroke-dasharray="4 4"/>
+    <rect x="388.912" y="341.551" width="161" height="161" transform="rotate(-45 388.912 341.551)" fill="url(#pattern5)" stroke="#293268" stroke-dasharray="4 4"/>
+    <rect x="-70.2929" y="794.551" width="161" height="161" transform="rotate(-45 -70.2929 794.551)" fill="url(#pattern6)" stroke="#293268" stroke-dasharray="4 4"/>
+    <rect x="387.912" y="794.551" width="161" height="161" transform="rotate(-45 387.912 794.551)" fill="url(#pattern7)" stroke="#293268" stroke-dasharray="4 4"/>
+    <rect x="1076.22" y="114.551" width="161" height="161" transform="rotate(-45 1076.22 114.551)" fill="url(#pattern8)" stroke="#293268" stroke-dasharray="4 4"/>
+    <rect x="1534.43" y="114.551" width="161" height="161" transform="rotate(-45 1534.43 114.551)" fill="url(#pattern9)" stroke="#293268" stroke-dasharray="4 4"/>
+    <rect x="1075.22" y="567.551" width="161" height="161" transform="rotate(-45 1075.22 567.551)" fill="url(#pattern10)" stroke="#293268" stroke-dasharray="4 4"/>
+    <rect x="1533.43" y="567.551" width="161" height="161" transform="rotate(-45 1533.43 567.551)" fill="url(#pattern11)" stroke="#293268" stroke-dasharray="4 4"/>
+    <rect x="847.118" y="341.551" width="161" height="161" transform="rotate(-45 847.118 341.551)" fill="url(#pattern12)" stroke="#293268" stroke-dasharray="4 4"/>
+    <rect x="1305.32" y="341.551" width="161" height="161" transform="rotate(-45 1305.32 341.551)" fill="url(#pattern13)" stroke="#293268" stroke-dasharray="4 4"/>
+    <rect x="846.118" y="794.551" width="161" height="161" transform="rotate(-45 846.118 794.551)" fill="url(#pattern14)" stroke="#293268" stroke-dasharray="4 4"/>
+    <rect x="1304.32" y="794.551" width="161" height="161" transform="rotate(-45 1304.32 794.551)" fill="url(#pattern15)" stroke="#293268" stroke-dasharray="4 4"/>
+    <rect x="1763.53" y="341.551" width="161" height="161" transform="rotate(-45 1763.53 341.551)" fill="url(#pattern16)" stroke="#293268" stroke-dasharray="4 4"/>
+    <rect x="1762.53" y="794.551" width="161" height="161" transform="rotate(-45 1762.53 794.551)" fill="url(#pattern17)" stroke="#293268" stroke-dasharray="4 4"/>
+    <defs>
+        <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image0_58_499" transform="scale(0.02)"/>
+        </pattern>
+        <pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image1_58_499" transform="scale(0.02)"/>
+        </pattern>
+        <pattern id="pattern2" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image0_58_499" transform="scale(0.02)"/>
+        </pattern>
+        <pattern id="pattern3" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image1_58_499" transform="scale(0.02)"/>
+        </pattern>
+        <pattern id="pattern4" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image2_58_499" transform="scale(0.02)"/>
+        </pattern>
+        <pattern id="pattern5" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image3_58_499" transform="scale(0.02)"/>
+        </pattern>
+        <pattern id="pattern6" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image2_58_499" transform="scale(0.02)"/>
+        </pattern>
+        <pattern id="pattern7" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image3_58_499" transform="scale(0.02)"/>
+        </pattern>
+        <pattern id="pattern8" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image0_58_499" transform="scale(0.02)"/>
+        </pattern>
+        <pattern id="pattern9" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image1_58_499" transform="scale(0.02)"/>
+        </pattern>
+        <pattern id="pattern10" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image0_58_499" transform="scale(0.02)"/>
+        </pattern>
+        <pattern id="pattern11" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image1_58_499" transform="scale(0.02)"/>
+        </pattern>
+        <pattern id="pattern12" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image2_58_499" transform="scale(0.02)"/>
+        </pattern>
+        <pattern id="pattern13" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image3_58_499" transform="scale(0.02)"/>
+        </pattern>
+        <pattern id="pattern14" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image2_58_499" transform="scale(0.02)"/>
+        </pattern>
+        <pattern id="pattern15" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image3_58_499" transform="scale(0.02)"/>
+        </pattern>
+        <pattern id="pattern16" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image2_58_499" transform="scale(0.02)"/>
+        </pattern>
+        <pattern id="pattern17" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image2_58_499" transform="scale(0.02)"/>
+        </pattern>
+        <image id="image0_58_499" width="50" height="50" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAGJJREFUaIHt1MEJgDAQBMBoN36tKiVZlV/LiX9BzCOrIDMF7LEkd6UAAADAK5a1tmWtLT1nSoZfCxz7FpsXC757hVSZSOjTV0qUGR7Yuw+jy8wjw770myJ2pIfzCwAAAEDICXz/H5DAgslfAAAAAElFTkSuQmCC"/>
+        <image id="image1_58_499" width="50" height="50" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAGxJREFUaIHt1UEKgCAQBdDqNm07VUfqVG07Tq2CiAQDZ6B4b6eLka+Odh0AAACkGKd5z1injyx+DbGtS+haYcWfTiIyzBBVOJurVVLT3BGhmhZ880K1DvObHmka5L7L57g0/ylZHyIAAAAANQ5X3SCIipr5UAAAAABJRU5ErkJggg=="/>
+        <image id="image2_58_499" width="50" height="50" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAGxJREFUaIHt1LsNgDAMQEHDNrRMxUhMRcs4UEWi4Sc5fKS7Kkph5RVxBAAAAERENDWGdv2wlPM8jc3eXab0gdsHH8mOSR12NaLIjGmzBr1NyNf47EfOYn6xfou9mBoRj+j6Ybm7lgEAAACoZQUnPB+R8qxgoQAAAABJRU5ErkJggg=="/>
+        <image id="image3_58_499" width="50" height="50" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAGpJREFUaIHt1bENgCAQBVB0G1qmYiSnsnUcrGxMjBQcJua9AT754Q5SAgAAgClyqS2X2qLPWSLD7wWOfQs7Lyz46RaiyoSEvo1SRJnhgb37MLrMOjLsS0brzS+W/TLz+Q0360MEAAAAoMcJ32EjEuSMijYAAAAASUVORK5CYII="/>
+    </defs>
+</svg>
